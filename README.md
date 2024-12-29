@@ -16,11 +16,16 @@ Fell free to join to this project — [OSINT For Countries V2.0](https://github.
 ## Open Data portals
 ### Data
 - [National Statistical Portal](https://www.belstat.gov.by/en)
+- [List of Official Open Data Resources](https://www.mpt.gov.by/ru/otkrytye-dannye)
+
+### Courts
+- [Supreme Court Data](https://court.gov.by/ru/justice_rb/statistics/)
 
 ### Stock
 - [Belarusian Currency and Stock Exchange](https://www.bcse.by)
 
 ## Legal Entities
+- [State register of taxpayers](http://grp.nalog.gov.by/grp/). Best results with TIN (Payer's account number/УНП) API is [available](http://grp.nalog.gov.by/grp/rest-api)
 - [Counterparty Check](https://etalonline.by/) - registration and belarusian phone number (+375) required, paid only.
 
 ## Maps
@@ -28,8 +33,15 @@ Fell free to join to this project — [OSINT For Countries V2.0](https://github.
 - [BELAERONAVIGATSIA Republican Unitary Air Navigation Services Enterprise](https://www.ban.by/en/aeronautical-information-aip/amdt)
 - [RailwayzInfo](https://railwayz.info/photolines/rw/13) - maps of railway tracks with staions's photos
 
+## Vehicles
+- [Avtogarant](https://avtogarant.by/proverka-istorii-avto/). Paid, licence plate check available
+- [Avtoteka](https://autoteka.ru). Paid, VIN-check. Russian service, but works with some Belarussian data
+
 ## People
 - [Emails and Direct Phone Numbers of professionals in Belarus](https://www.zoominfo.com/people-search/location-belarus--minsk--belarus)
+- [White Pages](https://whitepages.by). Google CSE with some useful options (Twitter, Linkedin etc.)
+- [Belarus on ThisNumber](https://www.thisnumber.com/by)
+- [OSINT Industries](https://app.osint.industries) work as well
 - [Political Prisoners and Persecuted] (https://dissidentby.com/en/prisoners)
 
 ## Public procurements
